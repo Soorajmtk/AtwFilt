@@ -27,7 +27,7 @@ Iam [{bot_name}](t.me/{bot_username}) 𝙾𝚛 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌�
     ABOUT_MSG = """
 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
-○𝐂𝐫𝐞𝐚𝐭𝐨𝐫:[𝐒𝐔𝐉𝐈𝐓𝐇](t.me/sujithkr730)
+○𝐂𝐫𝐞𝐚𝐭𝐨𝐫:[𝐒𝐔𝐉𝐈𝐓𝐇.𝐊𝐑](t.me/sujithkr730)
 ○𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞:[𝐏𝐲𝐭𝐡𝐨𝐧 𝟑.𝟗.𝟏𝟎](https://www.python.org/)
 ○𝐋𝐢𝐛𝐫𝐚𝐫𝐲:[𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐀𝐬𝐲𝐧𝐜𝐢𝐨 𝟏.𝟒.𝟏𝟐](https://docs.pyrogram.org/)
 ○𝐂𝐡𝐚𝐧𝐧𝐞𝐥:[𝐂𝐢𝐧𝐞𝐦𝐚𝐏𝐫𝐚𝐧𝐭𝐡𝐚𝐧320](https://t.me/cinemapranthan320)
