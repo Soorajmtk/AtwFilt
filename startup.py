@@ -44,8 +44,8 @@ Iam [{bot_name}](t.me/{bot_username}) 𝙾𝚛 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌�
 <code>{title}</code> 
 Size : <b>{size}</b>
 ━━━━━━━━━━━━━━━━━━━━━━
-<b>[Mᴏᴠɪᴇ Bᴀᴢᴢᴇʀ](https://t.me/cinemapranthan320)</b
->\n[Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ](https://t.me/Cinemapranthav5)
+<b>[Mᴏᴠɪᴇ Bᴀᴢᴢᴇʀ](https://t.me/cinema_parnthan_Malayalam_Movies)</b
+>\n[Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ](https://t.me/CinemapranthanMalayalammovies)
 **"""
 
     
