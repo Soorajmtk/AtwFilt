@@ -30,7 +30,7 @@ Iam [{bot_name}](t.me/{bot_username}) 𝙾𝚛 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌�
 ○𝐂𝐫𝐞𝐚𝐭𝐨𝐫:[𝐒𝐔𝐉𝐈𝐓𝐇.𝐊𝐑](t.me/sujithkr730)
 ○𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞:[𝐏𝐲𝐭𝐡𝐨𝐧 𝟑.𝟗.𝟏𝟎](https://www.python.org/)
 ○𝐋𝐢𝐛𝐫𝐚𝐫𝐲:[𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐀𝐬𝐲𝐧𝐜𝐢𝐨 𝟏.𝟒.𝟏𝟐](https://docs.pyrogram.org/)
-○𝐂𝐡𝐚𝐧𝐧𝐞𝐥:[𝐂𝐢𝐧𝐞𝐦𝐚𝐏𝐚𝐫𝐧𝐭𝐡𝐚𝐧𝐌𝐚𝐥𝐚𝐲𝐚𝐥𝐚𝐦_𝐌𝐨𝐯𝐢𝐞𝐬](https://t.me/cinema_parnthan_Malayalam_Movies)
+○𝐂𝐡𝐚𝐧𝐧𝐞𝐥:[𝐂𝐢𝐧𝐞𝐦𝐚𝐏𝐚𝐫𝐧𝐭𝐡𝐚𝐧𝐌𝐚𝐥𝐚𝐲𝐚𝐥𝐚𝐦𝐌𝐨𝐯𝐢𝐞𝐬](https://t.me/cinema_parnthan_Malayalam_Movies)
 ○𝐃𝐚𝐭𝐚𝐁𝐚𝐬𝐞:[𝐌𝐎𝐍𝐆𝐎𝔻𝔹](https://mongodb.com)
 
 
