@@ -17,7 +17,7 @@ async def start_message(bot, message):
             buttons = [[
              InlineKeyboardButton("🔍 𝐬𝐞𝐚𝐫𝐜𝐡 🔎", switch_inline_query_current_chat='')
             ] ,[
-             InlineKeyboardButton("🔰𝐉𝐎𝐈𝐍 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏🔰", url="https://t.me/CinemapranthanMalayalammovies")
+             InlineKeyboardButton("🔰𝐉𝐎𝐈𝐍 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏🔰", url="https://t.me/cinema_KL20_Mulluzz_Group")
             ] ,[
              InlineKeyboardButton("🔸𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔸", url="https://t.me/cinema_parnthan_Malayalam_Movies")
              ]]
@@ -25,7 +25,7 @@ async def start_message(bot, message):
             buttons = [[
              InlineKeyboardButton("🔍 𝐬𝐞𝐚𝐫𝐜𝐡 🔎", switch_inline_query_current_chat='')
           ] ,[
-             InlineKeyboardButton("🔰𝐉𝐎𝐈𝐍 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏🔰", url="https://t.me/CinemapranthanMalayalammovies")
+             InlineKeyboardButton("🔰𝐉𝐎𝐈𝐍 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏🔰", url="https://t.me/cinema_KL20_Mulluzz_Group")
           ] ,[
              InlineKeyboardButton("🔸𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔸", url="https://t.me/cinema_parnthan_Malayalam_Movies")
              ]]    
