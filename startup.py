@@ -45,7 +45,8 @@ Iam [{bot_name}](t.me/{bot_username}) 𝙾𝚛 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚌�
 Size : <b>{size}</b>
 ━━━━━━━━━━━━━━━━━━━━━━
 <b>[Mᴏᴠɪᴇ Bᴀᴢᴢᴇʀ](https://t.me/cinema_parnthan_Malayalam_Movies)</b
->\n[Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ](https://t.me/cinema_KL20_Mulluzz_Group)
+>\n[Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ](https://t.me/CinemapranthanMalayalammovies)
+
 **"""
 
     
@@ -75,6 +76,6 @@ Couldn't Find {query}?  Please Click Your Request Movie Name"""
 
 👤 Requested By : {mention}
 
-Uploder :[MOVIE BAZZER](t.me/mvbzzer)
+Uploder :[MOVIE BAZZER](t.me/CinemaCluB_Movies)
 
 © **{chat}**"""
